@@ -10,6 +10,9 @@ Before you begin, make sure you have the following installed:
 - Docker
 - Git (optional, for cloning the repository)
 
+- Docker: [Install Docker](https://docs.docker.com/get-docker/)
+- Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
+
 ## Setup
 
 1. Clone this repository (if you haven't already):
@@ -85,6 +88,4 @@ docker-compose down
 - Be cautious when executing SQL queries directly. Validate and sanitize user inputs to prevent vulnerabilities like SQL injection.
 
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
-
-```
 
